@@ -14,7 +14,8 @@ The infrastruture is made of:
 1. database
 2. user interface
 
-![](http://www.woodger.ca/images/harchgen.gif)
+![archite](https://cloud.githubusercontent.com/assets/1194257/10557457/f999077a-74ad-11e5-83d3-f697ffa113da.png)
+
 
 ### References
 
